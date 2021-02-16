@@ -8,3 +8,4 @@ To git@github.com:schacon/simplegit.git
  * [new tag]         v1.4-lw -> v1.4-lw
 advice.detachedHead to false
 dependabot.yml
+git@github.com:schacon/simplegit.git
